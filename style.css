@@ -82,8 +82,24 @@ a{
     cursor: pointer;
 }
 
+.skills-title{
+    font-size: 0.75rem;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 1rem 0.5rem;
+}
+.skill-name{
+    font-size: 0.65rem;
+    font-weight: 0.65rem;
+    text-align: left;
+    padding-bottom: 0.5rem;
+}
+.progress-bar{
+    border: 1px solid white;
+    height: 4px;
+    margin-bottom: 15px;
 
-
+}
 
 
 
