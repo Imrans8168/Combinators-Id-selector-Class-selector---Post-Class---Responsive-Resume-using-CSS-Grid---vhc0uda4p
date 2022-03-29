@@ -7,3 +7,27 @@
 }
 
 /* Write CSS code below */
+
+
+.main-content{
+    
+    display: grid;
+    min-height: 1000px;
+    grid-template-columns: 300px 700px;
+    width: 90%;
+
+}
+
+.left-section{
+    grid-column: span 1;
+    background-color:lightgreen;
+   
+}
+.left-content{
+    padding: 1rem;
+}
+
+.right-section{
+    grid-column: span 1 / span 2;
+    background-color: lightcoral;
+}
