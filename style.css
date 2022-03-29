@@ -81,7 +81,12 @@
 a{
     cursor: pointer;
 }
-
+.skills {
+    font-size: 0.75rem;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 1rem .5rem;
+}
 .skills-title{
     font-size: 0.75rem;
     text-align: center;
